@@ -1,5 +1,5 @@
 # standard-basic-cpp-template
-Organised basic C++ template  
+Organised basic C++ template aimed at beginners learning basics  
 # How-To-Use  
 
 1. Go into "c++ standard template" folder
